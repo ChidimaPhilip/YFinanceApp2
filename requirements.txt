@@ -1,0 +1,4 @@
+#Create a requirements file for streamlit
+streamlit
+yfinance
+matplotlib
